@@ -1,0 +1,21 @@
+h1{
+	background-color: rgb(153,125,188);
+	font-family:cursive ;
+	text-align: center;
+	color:white;
+}
+
+h3{  background-color:rgb(238,130,238);
+	border: groove rebeccapurple ;
+}
+
+h4{
+  background-color: rgb(191, 115, 150);
+  border-style: solid;
+}
+h2{
+
+	background-color: hsla(9,100%,64%,0.6);
+	font-family: cursive;
+	color:white;
+}
